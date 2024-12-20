@@ -6,7 +6,7 @@ import os
 import pickle
 import io
 import datetime
-from mainn import insert_to_database
+from main import insert_to_database
 
 # Authenticate and create the service
 SCOPES = ['https://www.googleapis.com/auth/drive']

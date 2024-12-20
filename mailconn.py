@@ -32,9 +32,9 @@ def get_recent_files(directory):
 timestamp = datetime.now().strftime("%Y-%m-%d") 
 Subject = f"Account Report for Review {timestamp}"
 body = "Check this file!!"
-sender_email = "nirusanathara1012@gmail.com"
-receiver_email = "nirusanathara1012@gmail.com"
-sender_password = 'zvcr krio nmog erzq'
+sender_email = "ABC@gmail.com"
+receiver_email = "ABC@gmail.com"
+sender_password = 'password'
 smtp_server ='smtp.gmail.com'
 smtp_port = 465
 
